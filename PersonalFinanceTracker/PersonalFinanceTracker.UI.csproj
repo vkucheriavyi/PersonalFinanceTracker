@@ -14,4 +14,10 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PersonalFinanceTracker.Application\PersonalFinanceTracker.Application.csproj" />
+    <ProjectReference Include="..\PersonalFinanceTracker.Data\PersonalFinanceTracker.Data.csproj" />
+    <ProjectReference Include="..\PersonalFinanceTracker.Infrastructure\PersonalFinanceTracker.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
