@@ -10,8 +10,4 @@
     <ProjectReference Include="..\PersonalFinanceTracker.Constants\PersonalFinanceTracker.Constants.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Exceptions\" />
-  </ItemGroup>
-
 </Project>
